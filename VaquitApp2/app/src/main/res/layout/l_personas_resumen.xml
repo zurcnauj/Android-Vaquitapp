@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_marginTop="10dp"
+    android:paddingTop="10dp"
+    android:paddingBottom="10dp"
+    android:background="@drawable/l_personas_resumen">
+
+    <TextView
+        android:id="@+id/l_pr_tvNombre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="5dp"
+
+        android:text="TextView"
+        android:textAlignment="center"
+        android:textColor="@color/gris_oscruro_1"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/l_pr_tvPlata"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="5dp"
+
+        android:textAlignment="center"
+        android:textColor="@color/gris_oscruro_1"
+        android:textSize="20dp"
+        android:text="TextView"/>
+
+</LinearLayout>

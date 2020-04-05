@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">VaquitApp</string>
+
+    <!--    -->
+    <string name="aceptar">Aceptar</string>
+
+    <string name="calcular">Calcular</string>
+    <string name="cancerlar">Cancelar</string>
+    <string name="cant_personas">"Cantidad de personas: "</string>
+    <string name="cant_personas_0">Cantidad de personas: 0</string>
+    <string name="cant_plata">Dinero</string>
+
+    <string name="finish">Terminar</string>
+
+    <string name="lista_personas">Lista de personas</string>
+
+    <string name="nombre">Nombre</string>
+    <string name="nueva_persona">Agregar persona</string>
+
+<!--    error-->
+    <string name="error_no_hay_personas">No hay personas</string>
+
+</resources>

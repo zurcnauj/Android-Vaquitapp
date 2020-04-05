@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+<!-- colores   -->
+
+    <color name="blanco_1"> #dddddd </color>
+
+    <color name="gris_oscruro_1"> #333 </color>
+    <color name="gris_oscruro_2"> #222 </color>
+
+    <color name="rojo"> #d33</color>
+
+</resources>
